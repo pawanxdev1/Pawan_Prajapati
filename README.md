@@ -42,18 +42,18 @@
 
 
 
-# 💫 Hi I'm Irfan Ansari : "Let's makes the world digital"
-- A Full Stack Developer skilled in developing wed application using Express.js , React.js and Modern Framework. connecting DataBase with postgress and MongoDb , deploying production ready App.
+# 💫 Hi, I'm Pawan Prajapati : "Let's make the world digital"
+- A Full Stack Developer skilled in developing web applications using Express.js, React.js, and modern frameworks. connecting DataBase with PostgreSQL and MongoDB, deploying production-ready apps.
 
-- I also intrested in Building the production ready web application by integrating Ai.
+- I am also interested in building production-ready web applications by integrating AI.
 
 
 ```typescript
 const developer = {
-  name: "Irfan Ansari",
+  name: "Pawan Prajapati",
   role: "Full Stack Developer",
   focus: ["JavaScript", "Express.js", "React.js", "AI Tools"],
-  building: "Scalable Project and Ai powered Project",
+  building: "Scalable Project and AI-powered Project",
 };
 ```
 
@@ -62,7 +62,7 @@ const developer = {
 - Frontend: React, Next.js, JavaScript, TailwindCSS
 - Backend: Node.js, Express, Prisma
 - Database: PostgreSQL, MongoDB
-- Tools: Git, Docker, vercel
+- Tools: Git, Docker, Vercel
 -->
 
 
@@ -70,15 +70,15 @@ const developer = {
 ## 🌐 Connect With Me:
 <div >
 
-<a href="https://irfanxdev.vercel.app/">
+<a href="">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/i_r_f_a_9">
+<a href="https://www.instagram.com/pa.wan_k.umar/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/irfanxdev/">
+<a href="https://www.linkedin.com/in/pawanxdev ">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
