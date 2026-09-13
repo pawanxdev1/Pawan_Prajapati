@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=Full+Stack+Developer+%26+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=sky&lines=Full+Stack+Developer+%26+Engineer">
 </p>
 <!-- <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
